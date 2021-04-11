@@ -1,1 +1,3 @@
-resolusi
+Resolusi
+- Menguasai Python mulai dari Data Wrangling sampai Deep learning
+- Menyelesaikan Penelitian yang didanai
